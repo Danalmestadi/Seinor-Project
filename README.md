@@ -1,9 +1,10 @@
-# IT Assets Management System
+## Senior Project
 ![Header](images/Header.gif)
 
 ## Overview
 
-Welcome to the IT Assets Management System, an advanced solution designed for efficient management and tracking of IT assets within your organization. This system provides a centralized platform to monitor and control various IT resources, enhancing productivity and ensuring optimal asset utilization.
+Welcome to the IT Assets Management System, an advanced solution designed for efficient management and tracking of IT assets within your organization. 
+This system provides a centralized platform to monitor and control various IT resources, enhancing productivity and ensuring optimal asset utilization.
 
 ## Features
 
@@ -25,7 +26,10 @@ Welcome to the IT Assets Management System, an advanced solution designed for ef
 - **Frontend:** React.js, Tailwind CSS
 
 - **Backend:** Firebase (Cloud Firestore, Authentication)
--**Interfaces** 
+
+
+## Interfaces
+
 ![Landing](images/Landing-Page.png)
 
 ![Home page (Admin)](images/Admin-homePage.png)
