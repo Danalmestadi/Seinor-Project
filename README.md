@@ -3,15 +3,16 @@
 
 ## Overview
 
-Welcome to the IT Assets Management System, an advanced solution designed for efficient management and tracking of IT assets within your organization. This system provides a centralized platform to monitor and control various IT resources, enhancing productivity and ensuring optimal asset utilization.
+Welcome to the IT Assets Management System, an advanced solution designed for efficient management and tracking of IT assets within your organization.
+This system provides a centralized platform to monitor and control various IT resources, enhancing productivity and ensuring optimal asset utilization.
 
 ## Features
 
-- **Asset Tracking:** Maintain a detailed record of all IT assets, including hardware, software, and peripherals.
+- **Asset Tracking:** Maintain a detailed record of all IT assets, including hardware and peripherals.
 
 - **Asset History:** Keep a comprehensive history log for each IT asset and peripheral.
 
-- **Virtual Assistant:** Integrate a chat bot powered by ChatGPT for enhanced user interaction.
+- **Virtual Assistant:** Integrate a chat bot powered by OpenAI for enhanced user interaction.
 
 - **Dashboard:** Utilize a powerful dashboard powered by PowerBI.
 
@@ -26,6 +27,10 @@ Welcome to the IT Assets Management System, an advanced solution designed for ef
 - **Real-time Updates with Firebase:** Leverage Firebase Cloud Firestore for seamless real-time updates, ensuring you and your team always have the latest information.
 
 - **Authentication and Authorization:** Ensure secure access with Firebase Authentication using JSON Web Tokens (JWT), allowing you to define roles and permissions for precise control over access levels.
+
+- **Print Reports:** Generate reports with real-time data from Firebase Cloud Firestore, ensuring you and your team always have the latest information.
+
+
 
 ![Poster](images/SeniorProjectPoster.png)
 
