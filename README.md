@@ -1,4 +1,4 @@
-## Senior Project
+# Senior Project
 ![Header](images/Header.gif)
 
 ## Overview:
