@@ -1,12 +1,12 @@
 ## Senior Project
 ![Header](images/Header.gif)
 
-## Overview
+## Overview:
 
 Welcome to the IT Assets Management System, an advanced solution designed for efficient management and tracking of IT assets within your organization.
 This system provides a centralized platform to monitor and control various IT resources, enhancing productivity and ensuring optimal asset utilization.
 
-## Features
+## Features:
 
 - **Asset Tracking:** Maintain a detailed record of all IT assets, including hardware and peripherals.
 
@@ -34,14 +34,14 @@ This system provides a centralized platform to monitor and control various IT re
 
 ![Poster](images/SeniorProjectPoster.png)
 
-## Technologies Used
+## Technologies Used:
 
 - **Frontend:** React.js, Tailwind CSS
 
 - **Backend:** Firebase (Cloud Firestore, Authentication)
 
 
-## Interfaces
+## User Interface:
 
 ![Landing](images/Landing-Page.png)
 
