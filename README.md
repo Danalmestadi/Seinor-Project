@@ -3,20 +3,30 @@
 
 ## Overview
 
-Welcome to the IT Assets Management System, an advanced solution designed for efficient management and tracking of IT assets within your organization. This system provides a centralized platform to monitor and control various IT resources, enhancing productivity and ensuring optimal asset utilization.
+Welcome to the IT Assets Management System, an advanced solution designed for efficient management and tracking of IT assets within your organization.
+This system provides a centralized platform to monitor and control various IT resources, enhancing productivity and ensuring optimal asset utilization.
 
 ## Features
 
-- **Asset Tracking:** Keep a detailed record of all IT assets, including hardware, software, and peripherals.
+- **Asset Tracking:** Maintain a detailed record of all IT assets, including hardware, software, and peripherals.
 
-- **User-Friendly Interface:** Enjoy a sleek and responsive design powered by React.js and styled with Tailwind CSS for easy navigation and quick access to essential information.
+- **Asset History:** Keep a comprehensive history log for each IT asset and peripheral.
 
-- **Status Monitoring:** Track the status and lifecycle of each asset, from procurement to retirement.
+- **Virtual Assistant:** Integrate a chat bot powered by ChatGPT for enhanced user interaction.
 
-- **Real-time Updates with Firebase:** Leverage Firebase Cloud Firestore for seamless real-time updates, ensuring that you and your team have the latest information at your fingertips.
+- **Dashboard:** Utilize a powerful dashboard powered by PowerBI.
 
-- **Authentication and Authorization:** Firebase Authentication handles secure authentication using JSON Web Tokens (JWT), allowing you to define roles and permissions to control access levels.
+- **Maintenance:** Categorize maintenance tasks based on urgency.
 
+- **Barcode Tracking:** Easily track your assets using barcode technology.
+
+- **User-Friendly Interface:** Experience a sleek design powered by React.js and styled with Tailwind CSS for intuitive navigation and quick access to essential information.
+
+- **Status Monitoring:** Keep tabs on the status and lifecycle of each asset, from procurement to retirement.
+
+- **Real-time Updates with Firebase:** Leverage Firebase Cloud Firestore for seamless real-time updates, ensuring you and your team always have the latest information.
+
+- **Authentication and Authorization:** Ensure secure access with Firebase Authentication using JSON Web Tokens (JWT), allowing you to define roles and permissions for precise control over access levels.
 
 ![Poster](images/SeniorProjectPoster.png)
 
@@ -35,4 +45,4 @@ Welcome to the IT Assets Management System, an advanced solution designed for ef
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/it-assets-management.git
+   git clone https://github.com/Danalmestadi/Seinor-Project.git
